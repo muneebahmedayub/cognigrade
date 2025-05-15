@@ -1,3 +1,9 @@
 [submodule "CognigradeAdmin"]
 	path = CognigradeAdmin
 	url = https://github.com/ziyad372/CognigradeAdmin
+[submodule "cognigrade-backend"]
+	path = cognigrade-backend
+	url = https://github.com/muneebahmedayub/cognigrade-backend.git
+[submodule "cognigrade"]
+	path = cognigrade
+	url = https://github.com/muneebahmedayub/cognigrade-app.git
