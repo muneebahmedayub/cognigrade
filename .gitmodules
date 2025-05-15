@@ -1,0 +1,3 @@
+[submodule "CognigradeAdmin"]
+	path = CognigradeAdmin
+	url = https://github.com/ziyad372/CognigradeAdmin
